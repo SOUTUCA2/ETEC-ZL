@@ -28,6 +28,23 @@ npm run dev
 # Abre um segundo terminal e execute o servidor PHP
 php artisan serve
 
+# TERMINAL 1:
+```bash
+git clone https://github.com/SOUTUCA2/ETEC-ZL.git
+cd ETEC-ZL
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+npm install
+npm run dev
+```
+
+# TERMINAL 2
+
+``` bash
+php artisan serve
+```
 
 
 
