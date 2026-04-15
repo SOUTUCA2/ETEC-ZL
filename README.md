@@ -1,4 +1,6 @@
 
+
+
 Instalação 
 
 ```bash
@@ -12,3 +14,9 @@ npm install
 npm run dev
 php artisan serve
 ```
+
+
+
+Video:
+
+https://youtu.be/bAy9Xu5odLo
