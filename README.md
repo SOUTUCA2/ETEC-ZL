@@ -2,7 +2,7 @@
 Instalação 
 
 ```bash
-git clone https://github.com/SEU_USERNAME/ETEC-ZL.git
+git clone https://github.com/SOUTUCA2/ETEC-ZL.git
 cd ETEC-ZL
 cp .env.example .env
 php artisan key:generate
